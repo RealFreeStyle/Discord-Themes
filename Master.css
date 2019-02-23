@@ -12,7 +12,7 @@ Status picker by URI -> https://cmpdc.github.io/bdtf/themes/FullScreenStatusPick
 @import url(https://nfld99.github.io/Better-Discord/Source_Code/FI/FIL.css);
 :root {
   --Update-Text: " Update #258 ";
-  --Settings-Dock-Colour: var(--Main-Colour);
+  --settings-Dock-Colour: var(--Main-Colour);
 }
 /* THANKYOU URI FOR HELPING ME UPDATE THIS <3 */
 
